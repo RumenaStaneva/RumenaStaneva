@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 </br>
-<a href="https://github.com/RumenaStaneva"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RumenaStaneva&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ilchovski's github stats" /></a> | <a href="https://github.com/RumenaStaneva"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RumenaStaneva&exclude_repo=shopify-titan-smart-cable&langs_count=6&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
+<a href="https://github.com/RumenaStaneva"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RumenaStaneva&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ilchovski's github stats" /></a> | <a href="https://github.com/RumenaStaneva"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RumenaStaneva&exclude_repo=shopify-titan-smart-cable&langs_count=6&layout=compact&theme=buefy&hide_border=true" /></a>
 <!--
 **RumenaStaneva/RumenaStaneva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
