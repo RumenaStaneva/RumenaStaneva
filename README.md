@@ -61,14 +61,14 @@ In addition to coding, here's how I like to spend my time:
 - 📖 Getting lost in the pages of a good book, exploring different worlds and perspectives.
 <br>
 
-## 📫 Get in Touch
+<!--## 📫 Get in Touch
 
 I'm always open to new opportunities, collaborations, or just a friendly chat. Feel free to reach out if you:
 
 - 🤝 Are looking to collaborate on a project.
 - 📚 Have book recommendations (I'm all ears!).
 - ☕ Want to discuss anything tech-related over a cup of coffee.
-<br>
+<br> -->
 
 ## 🌐 Socials
 
@@ -76,23 +76,15 @@ I'm always open to new opportunities, collaborations, or just a friendly chat. F
 </br>
 <!-- <a href="https://github.com/RumenaStaneva"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RumenaStaneva&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rumena's github stats" /></a> | <a href="https://github.com/RumenaStaneva"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RumenaStaneva&exclude_repo=shopify-titan-smart-cable&langs_count=6&layout=compact&theme=buefy&hide_border=true" /></a> -->
 
-# 📊 GitHub Stats
+<!-- # 📊 GitHub Stats
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=RumenaStaneva&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RumenaStaneva&theme=dark&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RumenaStaneva&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=RumenaStaneva&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RumenaStaneva&theme=dark&hide_border=false)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RumenaStaneva&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 <!-- ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=RumenaStaneva&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <!--
 **RumenaStaneva/RumenaStaneva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
