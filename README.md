@@ -1,30 +1,38 @@
 # Hi there 👋
 
-I'm a passionate software developer with a focus on front-end technologies. My journey in the tech world began with a curiosity that turned into a deep love for creating seamless and visually appealing user experiences. I'm not just limited to the frontend; I love exploring different areas of technology and am always up for a challenge.
+I'm a frontend developer turned blockchain enthusiast on a mission to master Solidity, smart contracts, and decentralized applications (dApps). My journey started with building sleek and responsive web interfaces — now I’m diving deep into the decentralized world to create the next generation of apps on Web3.
 
-# 💫 About Me
+# ✨ What I Do
 
-🚀 What I Do
+- ⚡ Learning Solidity & Smart Contracts – leveling up block by block.
+- 🧪 Experimental Builder – breaking things, fixing them, and learning fast.
+- 🐣 Web3 Newbie – but fully curious and ready to explore.
+- 🕸️ From Frontend to Blockchain – mixing Web2 UX with Web3 vibes.
+<!-- # 💫 About Me
+- 🔧 Learning Solidity & Smart Contracts – currently building my foundation in blockchain development.
+- 📖 Practical Learner – improving through small projects and consistent practice.
+- 🌍 Beginner in Web3 – still new to the space, but passionate about learning how decentralized applications work under the hood.
+- 🎨 From Frontend to Blockchain – my background in frontend helps me bridge Web2 design with Web3 logic. -->
 
-- 🔧 Frontend Developer with a keen eye for design and user experience.<br>
-- 🧪 Always experimenting with new technologies and tools to broaden my skill set.<br>
-- 📚 Committed to continuous learning, both in my studies and through real-world projects, to grow into a professional developer.
+# 🦄 My Goals 
 
-🌱 My Goals
-My journey in software development is a continuous adventure. I aspire to:<br>
-
-- 🎓 Further my education to deepen my knowledge and expertise.<br>
-- 👩‍💻 Work collaboratively in dynamic teams to solve complex problems.<br>
-- 🚀 Strive for excellence and become a proficient developer known for quality work.
+- 🔄 Transition from Web2 frontend development into the world of Web3 and blockchain.
+- ⛓️ Learn Solidity deeply and gain the skills to write secure and efficient smart contracts.
+- 🌐 Build and contribute to dApps that bring real value to people.
+- 🏆 Land a role as a blockchain/Web3 developer and grow into a reliable, impactful contributor in the space.
 
 # 🎯 Current Focus
 
-I'm currently honing my skills in frontend development, diving deep into the intricacies of creating responsive and user-friendly interfaces. But my interests don't stop there; I'm also exploring various backend technologies to have a holistic understanding of web development.
+- 📘 Studying the fundamentals of Solidity step by step.
+- 🧪 Understanding how to write, test, and deploy smart contracts.
+- 🔍 Exploring what makes a dApp work (frontend ↔ blockchain ↔ wallet).
+- 🌟 Preparing to grow into a full-stack decentralized application developer.
 <br>
 
 # 🎓 Currently Seeking
 
-I am actively looking for a job opportunity where I can contribute my skills and passion for development. If you know of any positions that align with my expertise, feel free to reach out! 😊
+💼 Looking for opportunities to contribute to blockchain/Web3 projects where I can grow as a Solidity developer and bring value with my frontend experience.
+If you’re building something exciting in Web3 — let’s connect! 🚀
 <br>
 
 # 💻 Tech Stack
@@ -55,8 +63,8 @@ I am actively looking for a job opportunity where I can contribute my skills and
 
 In addition to coding, here's how I like to spend my time:
 
-- 💪 Hitting the gym to stay active and healthy.
-- ☕ Sipping coffee while brainstorming new ideas and coding challenges.
+- 💪 Gym rat 🏋️‍♂️ – pushing limits outside of code too.
+- ☕ Coffee-fueled coding sessions.
 - 📖 Getting lost in the pages of a good book, exploring different worlds and perspectives.
 <br>
 
